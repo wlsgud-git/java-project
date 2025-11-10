@@ -58,4 +58,4 @@ public class Subject {
 //        return String.format("[%s] %s | 강사: %s | 인원: %d/%d | 시간: %s",
 //                subjectId, name, instructor, enrolledCount, capacity, schedule);
 //    }
-}
+} //정은찬
