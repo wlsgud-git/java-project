@@ -11,4 +11,4 @@ public class Student {
 
     public String GetName() {return name;}
     public int getstudentId(){return id;}
-}
+} //서진형
