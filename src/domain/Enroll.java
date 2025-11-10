@@ -7,5 +7,5 @@ public class Enroll {
     public void Enroll(Student student, Subject subject){
         this.student = student;
         this.subject = subject;
-    };
+    }
 } //전종수
