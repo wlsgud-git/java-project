@@ -1,14 +1,14 @@
 package domain;
 
 public class Student {
-    int id;
-    String name;
+    private String id;
+    private String name;
 
-    public void Signup(int id, String name ){
+    public void Student(String id, String name ){
         this.id = id;
         this.name = name;
     };
 
     public String GetName() {return name;}
-    public int getstudentId(){return id;}
+    public String getstudentId(){return id;}
 } //서진형

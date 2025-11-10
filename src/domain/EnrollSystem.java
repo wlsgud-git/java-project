@@ -5,7 +5,7 @@ import java.util.List;
 public class EnrollSystem {
     private List<Student> student = new ArrayList<>();
     private List<Subject> subject = new ArrayList<>();
-    // private List<Enroll> enrollList = new ArrayList<>();
+    private List<Enroll> enrollList = new ArrayList<>();
 
     public void printAllEnrollments(Student student, Subject subject){
         // enrollList.add(new Enroll(student, subject));
